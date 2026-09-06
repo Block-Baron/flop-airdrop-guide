@@ -1381,6 +1381,12 @@ Before finishing:
 
 ---
 
+## Contributor
+
+Public Technocore DID:
+
+did:key:z6MkmDywSZNgWLU5SPDXhtvYSSFb614utxkfJEkN1DgTb7kY
+
 # 🪪 MY PUBLIC TECHNОCORE IDENTITY
 
 ```text
